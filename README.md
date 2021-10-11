@@ -4,6 +4,7 @@ PISA serves as a means of understanding how well prepared students are for life 
 In the year 2012, a total number of 510,000 students from 65 different economies took part in the 5th PISA survey.
 
 **Issues Identified**
+
 *Quality*
 Nan values in 5 of the variables of interest.
 Inconsistent formats for multiple variables.
